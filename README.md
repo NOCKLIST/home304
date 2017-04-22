@@ -2,7 +2,7 @@
 
 [LIVE DEMO](http://thenocklist.com/css3/aerial/index.html)
 
-1. DOWNLOAD THE [NOCKLIST CONTENT INTEGRATION SYSTEM HOMEV3.04 ZIP](https://github.com/NOCKLIST/home304)
+1. DOWNLOAD THE [NOCKLIST CONTENT INTEGRATION SYSTEM HOME V3.04 ZIP](https://github.com/NOCKLIST/home304)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
